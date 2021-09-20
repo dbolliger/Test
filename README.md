@@ -1,2 +1,2 @@
 # Test
-Das ist ein Test, mit dem ich Git ausprobiere
+Das ist ein Test, mit dem ich Git ausprobiere...
